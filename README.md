@@ -6,7 +6,7 @@ A sleek and minimalistic **Weather App** built with **HTML**, **CSS**, and **Jav
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](ayaanfarrukh.github.io/Weather-App)  
+🔗 [Live Demo](https://ayaanfarrukh.github.io/Weather-App/)  
 
 ---
 
